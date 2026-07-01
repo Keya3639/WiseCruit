@@ -313,7 +313,7 @@ with tab1:
                 with st.spinner("🧠 Running cognitive analysis across 9 dimensions..."):
                     if len(candidates) > 100: candidates = candidates[:100]
                     ranker = WiseCruitRanker(jd_requirements)
-                    ranked = ranker.rank_candidates(candidates, top_n=min(20, len(candidates)))
+                    ranked = ranker.rank_candidates(candidates, top_n=min(100, len(candidates)))
                     df = ranker.to_dataframe(ranked)
                     top_score = df['score'].iloc[0]
                     avg_score = df['score'].mean()
@@ -388,7 +388,7 @@ with tab1:
                     from engine.loader import load_sample_candidates
                     candidates = load_sample_candidates("sample_candidates.json")
                     ranker = WiseCruitRanker(jd_requirements)
-                    ranked = ranker.rank_candidates(candidates, top_n=min(20, len(candidates)))
+                    ranked = ranker.rank_candidates(candidates, top_n=min(100, len(candidates)))
                     df = ranker.to_dataframe(ranked)
                     top_score = df['score'].iloc[0]
                     avg_score = df['score'].mean()
