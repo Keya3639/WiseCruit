@@ -266,17 +266,28 @@ WiseCruit/
 The screenshots above showcase WiseCruit's complete recruitment workflow—from Job Description understanding and AI-driven candidate evaluation to explainable ranking, trust analysis, behavioral intelligence, and final candidate shortlisting.
 
 ---
-# 🚀 Live Demo
+
+# 🚀 Live Demo & Video
 
 <div align="center">
 
-### 🌐 Try WiseCruit
+### 🌐 Try WiseCruit Live
 
-### https://wisecruit-aknytfr5zvekm86rnqkwu9.streamlit.app/
+**[wisecruit-aknytfr5zvekm86rnqkwu9.streamlit.app](https://wisecruit-aknytfr5zvekm86rnqkwu9.streamlit.app/)**
 
 **No installation required. Upload candidates and experience AI-powered recruitment instantly.**
 
+<br>
+
+### 🎥 Watch Demo
+
+[![WiseCruit Demo](https://img.youtube.com/vi/Hp7tL5ru9zY/0.jpg)](https://youtu.be/Hp7tL5ru9zY)
+
+**[Click to Watch on YouTube](https://youtu.be/Hp7tL5ru9zY)**
+
 </div>
+
+---
 
 ---
 
