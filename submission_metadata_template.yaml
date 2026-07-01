@@ -1,0 +1,99 @@
+# ╔════════════════════════════════════════════════════════════════════════════╗
+# ║                  🧠 WISECRUIT — SUBMISSION METADATA                        ║
+# ║  Smart AI Driven Role Fit Analysis & Automated Deep Shortlisting Engine     ║
+# ║                 Hire Smarter. Hunt Less. Hit Gold. 🥇                      ║
+# ╚═════════════════════════════════════════════════════════════════════════════╝
+
+# ============================================================================
+# TEAM IDENTITY
+# ============================================================================
+
+team_name: "One & Done🏆"
+project_name: "WiseCruit - Smart AI Driven Role Fit Analysis & Automated Deep Shortlisting Engine"
+tagline: "Hire Smarter. Hunt Less. Hit Gold. 🥇"
+
+primary_contact:
+  name: "Keya Das"
+  email: "keyakarunamoydas@gmail.com"
+  phone: "+91-9923622946"
+
+team_members:
+  - name: "Keya Das"
+    email: "keyakarunamoydas@gmail.com"
+    role: "Solo Developer | MCA (AI & Data Science)"
+
+# ============================================================================
+# CODE & REPRODUCIBILITY
+# ============================================================================
+
+github_repo: "https://github.com/Keya3639/WiseCruit"
+
+sandbox_link: "https://wisecruit-aknytfr5zvekm86rnqkwu9.streamlit.app/"
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+
+# ============================================================================
+# COMPUTE ENVIRONMENT
+# ============================================================================
+
+compute:
+  platform: "Windows 11 Laptop"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.13"
+  os: "Windows 11"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: false
+  pre_computation_time_minutes: 0
+  average_ranking_time_seconds: 28
+  candidates_processed: 100000
+
+# ============================================================================
+# AI TOOLS DECLARATION (HONEST)
+# ============================================================================
+
+ai_tools_used:
+  - "ChatGPT (OpenAI)"
+  - "DeepSeek"
+  - "GitHub Copilot"
+
+ai_usage_summary: |
+  Used ChatGPT and DeepSeek for architecture discussion, code review,
+  UI design suggestions, and debugging assistance. GitHub Copilot used
+  for Python code autocompletion during development.
+  
+  No candidate data or hackathon dataset content was shared with any
+  external AI service. All assistance limited to code structure,
+  design patterns, and debugging only.
+
+# ============================================================================
+# APPROACH SUMMARY
+# ============================================================================
+
+methodology_summary: |
+  9-dimensional cognitive scoring system with rule-based JD intelligence.
+  Skills weighted by proficiency, endorsements, and duration. 23 behavioral
+  signals inform hiring readiness. Trust engine detects timeline inconsistencies,
+  skill inflation, and honeypot patterns. Hidden talent discovered from career
+  descriptions. Consulting-only backgrounds penalized per JD requirements.
+  Startup mindset scored from company size, role diversity, and engagement.
+  Processes 100K candidates in ~28 seconds on CPU only, zero network calls.
+
+# ============================================================================
+# DECLARATIONS
+# ============================================================================
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true
+  submission_validated: true
+  sandbox_deployed: true
+  github_accessible: true
+
+# ╔══════════════════════════════════════════════════════════════╗
+# ║     One & Done 🏆 — Solo Build, Ready to Win! 🧠            ║
+# ╚══════════════════════════════════════════════════════════════╝
