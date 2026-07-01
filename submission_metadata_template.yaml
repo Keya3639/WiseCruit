@@ -32,6 +32,8 @@ sandbox_link: "https://wisecruit-aknytfr5zvekm86rnqkwu9.streamlit.app/"
 
 reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
 
+demo_video: "https://youtu.be/Hp7tL5ru9zY"
+
 # ============================================================================
 # COMPUTE ENVIRONMENT
 # ============================================================================
