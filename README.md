@@ -1,21 +1,15 @@
 <!-- WiseCruit Banner -->
 <div align="center">
-  <h1>🧠 WiseCruit</h1>
-  <h2>Smart Role Fit Analysis & Automated Deep Shortlisting Engine</h3>
-  <p>
-    <strong>Hire Smarter. Hunt Less. Hit Gold. 🥇</strong>
-  </p>
+
+# 🧠 WiseCruit
+
+# Smart AI Driven Role Fit Analysis & Automated Deep Shortlisting Engine
+
+##  Hire Smarter. Hunt Less. Hit Gold 🥇.
+
 </div>
 
----
 
-<div align="center">
-
-⭐ **AI Recruitment Platform** &nbsp;|&nbsp;
-🧠 **9-Dimensional Scoring** &nbsp;|&nbsp;
-⚡ **Python + Streamlit** &nbsp;|&nbsp;
-🛡️ **Honeypot Detection** &nbsp;
-</div>
 
 ---
 
@@ -33,47 +27,53 @@
 </p>
 
 ---
+## 📖 Project Description
+
+**WiseCruit** is an AI-powered recruitment platform that intelligently analyzes Job Descriptions and candidate profiles to automate deep shortlisting. By combining semantic matching, 9-dimensional candidate scoring, hidden talent detection, authenticity verification, and behavioral intelligence, it delivers explainable candidate rankings that help recruiters identify the best-fit talent quickly and accurately.
+
+----
+## ✨ Key Highlights
+
+- 🧠 AI-powered Job Description Intelligence
+- 🎯 9-Dimensional Candidate Scoring
+- 🔍 Hidden Talent Detection
+- 🛡 Honeypot & Fraud Detection
+- 📡 Behavioral Signal Analysis
+- 💬 Explainable AI Recommendations
+- ⚡ CPU-Only Processing
+- 📁 One-Click Ranked CSV Export
+---
 
 # 🏗 System Architecture
 
-WiseCruit follows a modular AI pipeline that transforms an unstructured Job Description into explainable candidate rankings through intelligent parsing, multi-dimensional evaluation, fraud detection, and behavioral analysis.
+WiseCruit follows a modular AI recruitment pipeline that transforms a Job Description into explainable candidate rankings using semantic matching, multi-dimensional scoring, trust analysis, and behavioral intelligence.
 
 ```mermaid
-flowchart TB
+flowchart TD
 
-subgraph Input
-A[📄 Job Description]
-B[👥 Candidate Dataset]
-end
-
-subgraph Intelligence
-C[🧠 JD Parser]
-D[🎯 Skill Matcher]
-E[📊 9-Dimensional Scoring]
-F[🛡 Trust Engine]
-G[🔍 Hidden Talent Radar]
-H[📡 Behavioral Signals]
-end
-
-subgraph Ranking
-I[🏆 Ranking Engine]
-J[💬 Explainable Reasoning]
-end
-
-subgraph Output
-K[📁 submission.csv]
-end
+A["📄 Job Description"]
+B["👥 Candidate Profiles"]
 
 A --> C
-B --> D
-C --> E
-D --> E
-E --> F
-F --> G
-G --> H
-H --> I
-I --> J
-J --> K
+B --> C
+
+C["🧠 JD Intelligence Engine"]
+
+C --> D["🎯 Semantic Skill Matching"]
+
+D --> E["📊 9-Dimensional Candidate Scoring"]
+
+E --> F["🔍 Hidden Talent Radar"]
+
+F --> G["🛡 Authenticity Shield"]
+
+G --> H["📡 Behavioral Intelligence"]
+
+H --> I["🏆 AI Ranking Engine"]
+
+I --> J["💬 Explainable Candidate Reasoning"]
+
+J --> K["📁 Final Ranked Output (submission.csv)"]
 ```
 
 ### 🔄 Application Workflow
@@ -257,7 +257,7 @@ WiseCruit/
 ---
 ## 📄 Final Ranked Output
 
-![](Screenshots/9.jpg)
+<img width="1800" height="860" alt="Image" src="https://github.com/user-attachments/assets/4ae8f7e1-c624-469b-98b1-7d7ba68fc154" />
 ---
 
 
@@ -270,9 +270,11 @@ The screenshots above showcase WiseCruit's complete recruitment workflow—from 
 
 <div align="center">
 
-## 🌐 Try WiseCruit
+### 🌐 Try WiseCruit
 
-https://wisecruit-aknytfr5zvekm86rnqkwu9.streamlit.app/
+### https://wisecruit-aknytfr5zvekm86rnqkwu9.streamlit.app/
+
+**No installation required. Upload candidates and experience AI-powered recruitment instantly.**
 
 </div>
 
