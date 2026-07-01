@@ -1,0 +1,6 @@
+candidates.jsonl
+candidates.jsonl.gz
+output/
+__pycache__/
+*.pyc
+.env
