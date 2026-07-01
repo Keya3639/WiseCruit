@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0077337,1,75.502,Excellent fit: Strong career alignment with 7.0y experience; some skills (LlamaIndex). high recruiter response (95%).
+CAND_0083307,2,74.983,Excellent fit: Strong career alignment with 7.8y experience; some skills (Weaviate). strong interview attendance; 120d notice (long).
+CAND_0079387,3,74.242,Excellent fit: Strong career alignment with 6.9y experience; some skills (Haystack). high recruiter response (81%); strong interview attendance; 30d notice (short).
+CAND_0018499,4,74.063,Excellent fit: Strong career alignment with 7.2y experience; some skills (scikit-learn). 15d notice (short).
+CAND_0008425,5,73.942,Excellent fit: Strong career alignment with 7.8y experience; some skills (TensorFlow)
+CAND_0081846,6,73.687,Excellent fit: Strong career alignment with 6.7y experience; some skills (Information Retrieval). high recruiter response (73%); strong interview attendance; 30d notice (short).
+CAND_0071974,7,73.024,Excellent fit: Partial career alignment; some skills (Speech Recognition). high recruiter response (76%); strong interview attendance.
+CAND_0044855,8,72.193,Excellent fit: Strong career alignment with 6.6y experience; some skills (Hugging Face Transformers). strong interview attendance.
+CAND_0046064,9,71.371,Excellent fit: Partial career alignment; some skills (Deep Learning). high recruiter response (78%); 30d notice (short).
+CAND_0027691,10,71.358,Excellent fit: Partial career alignment; some skills (Recommendation Systems). 15d notice (short).
+CAND_0042029,11,70.644,Good match: Strong career alignment with 6.5y experience; some skills (Learning to Rank)
+CAND_0093912,12,70.626,Good match: Strong career alignment with 5.3y experience; some skills (Milvus). strong interview attendance; 30d notice (short).
+CAND_0028793,13,70.39,Good match: Partial career alignment; some skills (LoRA). 120d notice (long).
+CAND_0054703,14,70.307,Good match: Strong career alignment with 6.8y experience; some skills (Python). strong interview attendance.
+CAND_0064326,15,69.864,Good match: Partial career alignment; some skills (Deep Learning). high recruiter response (94%); strong interview attendance.
+CAND_0000031,16,69.682,Good match: Strong career alignment with 6.0y experience; some skills (MLflow). high recruiter response (91%).
+CAND_0006418,17,69.583,Good match: Strong career alignment with 5.7y experience; some skills (Elasticsearch). high recruiter response (92%); strong interview attendance.
+CAND_0079064,18,69.564,Good match: Strong career alignment with 5.2y experience; some skills (OpenSearch). high recruiter response (91%); strong interview attendance; 120d notice (long).
+CAND_0068811,19,69.257,Good match: Partial career alignment; some skills (Weaviate). 30d notice (short).
+CAND_0088025,20,69.255,Good match: Partial career alignment; some skills (Elasticsearch). high recruiter response (83%); strong interview attendance.
+CAND_0081321,21,69.179,Good match: Strong career alignment with 5.3y experience; some skills (MLflow). strong interview attendance; 120d notice (long).
+CAND_0070398,22,69.112,Good match: Partial career alignment; some skills (BM25). 120d notice (long).
+CAND_0005649,23,69.096,Good match: Partial career alignment; some skills (Information Retrieval). strong interview attendance.
+CAND_0041669,24,68.975,Good match: Partial career alignment; some skills (Weaviate). high recruiter response (77%); strong interview attendance.
+CAND_0032515,25,68.897,Good match: Strong career alignment with 5.1y experience; some skills (Milvus)
+CAND_0083879,26,68.315,Good match: Strong career alignment with 7.1y experience; some skills (Hugging Face Transformers). strong interview attendance; 30d notice (short).
+CAND_0004402,27,68.244,Good match: Strong career alignment with 6.0y experience; some skills (PEFT). high recruiter response (83%).
+CAND_0050876,28,68.167,Good match: Strong career alignment with 6.0y experience; some skills (Qdrant). strong interview attendance.
+CAND_0054859,29,67.79,Good match: Strong career alignment with 6.9y experience; some skills (Embeddings)
+CAND_0039383,30,67.701,Good match: Partial career alignment; some skills (NLP). strong interview attendance.
+CAND_0075574,31,67.642,Moderate fit: Partial career alignment; some skills (PyTorch). strong interview attendance.
+CAND_0041568,32,67.596,Moderate fit: Strong career alignment with 5.2y experience; some skills (Computer Vision)
+CAND_0075249,33,67.527,Moderate fit: Strong career alignment with 6.2y experience; some skills (Kubeflow). high recruiter response (82%).
+CAND_0033861,34,67.466,Moderate fit: Partial career alignment; some skills (Milvus). low response rate (16%); strong interview attendance; 30d notice (short).
+CAND_0001610,35,67.396,Moderate fit: Strong career alignment with 3.0y experience; some skills (scikit-learn)
+CAND_0005509,36,67.352,Moderate fit: Strong career alignment with 6.0y experience; some skills (Qdrant). 30d notice (short).
+CAND_0051292,37,67.273,Moderate fit: Partial career alignment; some skills (RAG). 30d notice (short).
+CAND_0055905,38,67.265,Moderate fit: Strong career alignment with 8.1y experience; some skills (OpenSearch). high recruiter response (87%); 30d notice (short).
+CAND_0017960,39,67.023,Moderate fit: Partial career alignment; some skills (Python). high recruiter response (72%).
+CAND_0020877,40,66.991,Moderate fit: Partial career alignment; some skills (PyTorch)
+CAND_0098846,41,66.99,Moderate fit: Partial career alignment; some skills (Recommendation Systems)
+CAND_0024147,42,66.988,Moderate fit: Strong career alignment with 5.9y experience; some skills (Qdrant). high recruiter response (84%).
+CAND_0082086,43,66.961,Moderate fit: Strong career alignment with 6.0y experience; some skills (FAISS). high recruiter response (85%).
+CAND_0006567,44,66.508,Moderate fit: Strong career alignment with 7.9y experience; some skills (NLP). high recruiter response (79%); strong interview attendance.
+CAND_0007412,45,66.482,Moderate fit: Partial career alignment; some skills (Milvus). high recruiter response (76%); strong interview attendance; 120d notice (long).
+CAND_0005260,46,66.414,Moderate fit: Partial career alignment; some skills (NLP). high recruiter response (86%).
+CAND_0029671,47,66.356,Moderate fit: Strong career alignment with 5.7y experience; some skills (MLOps). strong interview attendance.
+CAND_0010257,48,66.345,Moderate fit: Partial career alignment; some skills (Recommendation Systems). high recruiter response (72%); strong interview attendance; 120d notice (long).
+CAND_0060054,49,66.308,Moderate fit: Strong career alignment with 6.4y experience; some skills (TensorFlow). high recruiter response (86%); 15d notice (short).
+CAND_0080766,50,66.274,Moderate fit: Partial career alignment; some skills (OpenSearch). strong interview attendance; 0d notice (short).
+CAND_0036437,51,66.153,Moderate fit: Strong career alignment with 4.8y experience; some skills (FAISS). high recruiter response (87%); strong interview attendance; 30d notice (short).
+CAND_0011687,52,66.072,Moderate fit: Partial career alignment; some skills (Semantic Search). high recruiter response (89%); 15d notice (short).
+CAND_0022852,53,65.809,Moderate fit: Strong career alignment with 5.4y experience; some skills (Weights & Biases). high recruiter response (86%); 120d notice (long).
+CAND_0015967,54,65.789,Moderate fit: Strong career alignment with 5.4y experience; some skills (ASR). 30d notice (short).
+CAND_0057563,55,65.77,Moderate fit: Partial career alignment; some skills (Feature Engineering). high recruiter response (83%); strong interview attendance.
+CAND_0074735,56,65.622,Moderate fit: Partial career alignment; some skills (GANs). high recruiter response (77%).
+CAND_0052682,57,65.539,Moderate fit: Partial career alignment; some skills (Python). high recruiter response (88%); strong interview attendance; 30d notice (short).
+CAND_0033350,58,65.452,Moderate fit: Strong career alignment with 6.2y experience; some skills (BM25). high recruiter response (85%); strong interview attendance.
+CAND_0016163,59,65.306,Moderate fit: Partial career alignment; some skills (LoRA). high recruiter response (72%); 120d notice (long).
+CAND_0087630,60,65.25,Moderate fit: Partial career alignment; some skills (Deep Learning). strong interview attendance; 30d notice (short).
+CAND_0093547,61,65.069,Marginal fit: Partial career alignment; some skills (PyTorch). high recruiter response (75%); strong interview attendance.
+CAND_0044262,62,65.021,Marginal fit: Strong career alignment with 6.9y experience; some skills (YOLO). high recruiter response (73%); strong interview attendance.
+CAND_0092255,63,65.013,Marginal fit: Partial career alignment; some skills (Machine Learning)
+CAND_0075439,64,64.948,Marginal fit: Strong career alignment with 4.3y experience; some skills (Feature Engineering). strong interview attendance; 30d notice (short).
+CAND_0025882,65,64.919,Marginal fit: Strong career alignment with 5.6y experience; some skills (YOLO). high recruiter response (79%).
+CAND_0011432,66,64.917,Marginal fit: Partial career alignment; some skills (PEFT). strong interview attendance.
+CAND_0040178,67,64.834,Marginal fit: Partial career alignment; some skills (Python). strong interview attendance.
+CAND_0077285,68,64.823,Marginal fit: Partial career alignment; some skills (Information Retrieval)
+CAND_0062247,69,64.757,Marginal fit: Partial career alignment; some skills (PEFT). high recruiter response (78%); strong interview attendance; 30d notice (short).
+CAND_0098780,70,64.666,Marginal fit: Strong career alignment with 5.9y experience; some skills (MLOps)
+CAND_0051003,71,64.634,Marginal fit: Strong career alignment with 4.0y experience; some skills (TTS)
+CAND_0011327,72,64.625,Marginal fit: Strong career alignment with 6.3y experience; some skills (Forecasting). high recruiter response (79%).
+CAND_0096142,73,64.602,Marginal fit: Partial career alignment; some skills (Weights & Biases). high recruiter response (84%); 120d notice (long).
+CAND_0030031,74,64.552,Marginal fit: Partial career alignment; some skills (scikit-learn). high recruiter response (94%); strong interview attendance; 30d notice (short).
+CAND_0052744,75,64.511,Marginal fit: Strong career alignment with 4.9y experience; some skills (Sentence Transformers). high recruiter response (79%).
+CAND_0030784,76,64.447,Marginal fit: Partial career alignment; some skills (Python). high recruiter response (90%).
+CAND_0005538,77,64.386,Marginal fit: Partial career alignment; some skills (Information Retrieval Systems). high recruiter response (81%).
+CAND_0092278,78,64.323,Marginal fit: Partial career alignment; some skills (TensorFlow). low response rate (7%). Concerns: low hiring readiness.
+CAND_0051630,79,64.311,Marginal fit: Strong career alignment with 6.0y experience; some skills (Machine Learning)
+CAND_0052328,80,64.309,Marginal fit: Partial career alignment; some skills (QLoRA). high recruiter response (79%); strong interview attendance; 30d notice (short).
+CAND_0016659,81,64.188,Marginal fit: Strong career alignment with 4.4y experience; some skills (scikit-learn). high recruiter response (89%); strong interview attendance.
+CAND_0041610,82,64.16,Marginal fit: Partial career alignment; some skills (OpenSearch). 30d notice (short).
+CAND_0043228,83,64.126,Marginal fit: Partial career alignment; some skills (Sentence Transformers). strong interview attendance; 30d notice (short).
+CAND_0087783,84,64.122,Marginal fit: Strong career alignment with 6.7y experience; some skills (Reinforcement Learning)
+CAND_0086022,85,64.102,Marginal fit: Partial career alignment; some skills (Recommendation Systems). 0d notice (short).
+CAND_0081053,86,63.986,Marginal fit: Partial career alignment; some skills (Machine Learning). high recruiter response (83%).
+CAND_0084819,87,63.892,Marginal fit: Strong career alignment with 4.5y experience; some skills (LoRA). high recruiter response (74%); strong interview attendance; 120d notice (long).
+CAND_0027801,88,63.755,Marginal fit: Partial career alignment; some skills (Milvus). 120d notice (long).
+CAND_0069638,89,63.681,Marginal fit: Partial career alignment; some skills (Semantic Search). 30d notice (short).
+CAND_0007411,90,63.676,Marginal fit: Partial career alignment; some skills (Information Retrieval). low response rate (12%); 15d notice (short).
+CAND_0005477,91,63.615,Marginal fit: Partial career alignment; some skills (Kubeflow)
+CAND_0032216,92,63.584,Marginal fit: Partial career alignment; some skills (Sentence Transformers). 30d notice (short).
+CAND_0074225,93,63.559,Marginal fit: Partial career alignment; some skills (Machine Learning). high recruiter response (91%); 120d notice (long).
+CAND_0031703,94,63.521,Marginal fit: Strong career alignment with 6.8y experience; some skills (TensorFlow). 120d notice (long).
+CAND_0065195,95,63.51,Marginal fit: Partial career alignment; some skills (Hugging Face Transformers). high recruiter response (80%); strong interview attendance.
+CAND_0065878,96,63.505,Marginal fit: Partial career alignment; some skills (Recommendation Systems). 15d notice (short).
+CAND_0086154,97,63.505,Marginal fit: Partial career alignment; some skills (OpenCV). high recruiter response (90%); strong interview attendance.
+CAND_0067866,98,63.498,Marginal fit: Partial career alignment; some skills (Weights & Biases). high recruiter response (79%).
+CAND_0007009,99,63.441,Marginal fit: Recommendation Systems Engineer with limited role relevance; some skills (QLoRA). strong interview attendance; 30d notice (short).
+CAND_0058575,100,63.438,Marginal fit: Partial career alignment; some skills (Hugging Face Transformers)

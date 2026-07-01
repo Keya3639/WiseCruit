@@ -1,0 +1,21 @@
+candidate_id,rank,score,reasoning
+CAND_0000031,1,69.682,Excellent fit: Strong career alignment with 6.0y experience; some skills (MLflow). high recruiter response (91%).
+CAND_0000015,2,51.068,Good match: Partial career alignment; some skills (Qdrant)
+CAND_0000038,3,48.977,Good match: Java Developer with limited role relevance; some skills (Weaviate). low response rate (20%).
+CAND_0000014,4,48.175,Good match: Frontend Engineer with limited role relevance; some skills (OpenSearch). high recruiter response (80%).
+CAND_0000048,5,46.94,Good match: Partial career alignment; some skills (Terraform). 120d notice (long).
+CAND_0000010,6,45.147,Good match: Partial career alignment; some skills (GANs). 120d notice (long).
+CAND_0000018,7,43.34,Good match: Frontend Engineer with limited role relevance; some skills (CNN). low response rate (16%); 120d notice (long).
+CAND_0000023,8,40.569,Good match: Software Engineer with limited role relevance; some skills (Django). strong interview attendance; 30d notice (short).
+CAND_0000044,9,39.736,Good match: Frontend Engineer with limited role relevance; some skills (Databricks) Concerns: low hiring readiness.
+CAND_0000032,10,38.11,Good match: .NET Developer with limited role relevance; some skills (OpenCV). 150d notice (long).
+CAND_0000001,11,37.909,Good match: Backend Engineer with limited role relevance; some skills (TTS)
+CAND_0000027,12,37.345,Good match: DevOps Engineer with limited role relevance; some skills (PEFT)
+CAND_0000019,13,36.993,Good match: Project Manager with limited role relevance; some skills (Scrum)
+CAND_0000007,14,36.904,Good match: Civil Engineer with limited role relevance; some skills (Spark). 30d notice (short).
+CAND_0000026,15,36.556,Good match: Graphic Designer with limited role relevance; some skills (ETL). 30d notice (short).
+CAND_0000043,16,36.28,Good match: Cloud Engineer with limited role relevance; some skills (Elasticsearch). low response rate (4%); 120d notice (long). Concerns: low hiring readiness.
+CAND_0000025,17,36.212,Good match: Frontend Engineer with limited role relevance; some skills (LangChain). high recruiter response (74%); 120d notice (long).
+CAND_0000046,18,35.933,Good match: Mechanical Engineer with limited role relevance; some skills (Scrum). 30d notice (short).
+CAND_0000035,19,35.457,Good match: Full Stack Developer with limited role relevance; some skills (BentoML)
+CAND_0000039,20,35.416,Good match: Marketing Manager with limited role relevance; some skills (Hadoop). 30d notice (short).
