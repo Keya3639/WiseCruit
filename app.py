@@ -19,7 +19,7 @@ from engine.jd_parser import parse_jd
 from engine.ranker import WiseCruitRanker
 
 st.set_page_config(
-    page_title="WiseCruit | Cognitive Talent Intelligence",
+    page_title="WiseCruit",
     page_icon="🧠",
     layout="wide"
 )
